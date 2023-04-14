@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   console.log(theTetrominoes[0][0])
 
-  // left off at 40:17 on freecodecamp tetris!
+  // left off at 40:17 on freecodecamp tetris! https://www.youtube.com/watch?v=rAUn1Lom6dw
 });
 
 /*
